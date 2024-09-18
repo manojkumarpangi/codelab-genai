@@ -2,7 +2,7 @@
 
 This project leverages **Google's Vertex AI** to generate text-based content dynamically based on user input. It uses an Express server to interact with Vertex AI and retrieve content, such as fun facts about a given animal, returning the result in HTML format.
 
-I attended a workshop organized by **Google Cloud** where they discussed the usage of **Vertex AI**, and that is where I got the inspiration to create this project. This project demonstrates the power of machine learning models and their ability to interact with natural language, generating dynamic responses based on user input.
+I participated in a workshop hosted by Google Cloud, which focused on the capabilities of Vertex AI. Inspired by the insights gained from this workshop, I developed this project. It showcases how machine learning models, particularly Vertex AI's gemini-1.5-flash model, can be utilized to generate dynamic and engaging text responses based on user input. This project highlights the practical applications of natural language processing by leveraging the advanced capabilities of the Gemini-1.5-flash model to interact with and respond to various prompts.
 
 ## **Features**
 - **Text Generation**: Uses Vertex AI to generate content based on a provided prompt.
