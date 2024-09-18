@@ -2,9 +2,7 @@
 
 This project leverages **Google's Vertex AI** to generate text-based content dynamically based on user input. It uses an Express server to interact with Vertex AI and retrieve content, such as fun facts about a given animal, returning the result in HTML format.
 
-![License](https://img.shields.io/github/license/manojkumarpangi/codelab-genai) ![Version](https://img.shields.io/github/v/tag/manojkumarpangi/codelab-genai)
-
-I had attended a workshop organized by **Google Cloud** where they discussed the usage of **Vertex AI**, and that is where I got the inspiration to create this project. This project demonstrates the power of machine learning models and their ability to interact with natural language, generating dynamic responses based on user input.
+I attended a workshop organized by **Google Cloud** where they discussed the usage of **Vertex AI**, and that is where I got the inspiration to create this project. This project demonstrates the power of machine learning models and their ability to interact with natural language, generating dynamic responses based on user input.
 
 ## **Features**
 - **Text Generation**: Uses Vertex AI to generate content based on a provided prompt.
@@ -24,6 +22,7 @@ I had attended a workshop organized by **Google Cloud** where they discussed the
    ```bash
    git clone https://github.com/manojkumarpangi/codelab-genai.git
    cd codelab-genai
+
 2. **Install Dependencies**
    ```bash
    npm install
